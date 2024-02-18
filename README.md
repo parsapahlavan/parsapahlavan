@@ -46,9 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/parsapahlavan/parsapahlavan/output/snake.svg" alt="Snake animation" />
 
 ###
 
