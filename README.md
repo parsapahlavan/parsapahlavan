@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Stuff I like (in no particular order):</h2>
+<h2 align="left">Stuff I like (in no particular order)</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Contact me:</h2>
+<h2 align="left">Contact me</h2>
 
 ###
 
